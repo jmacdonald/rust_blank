@@ -1,0 +1,19 @@
+PATH
+  remote: ..
+  specs:
+    rust_blank (0.1.0)
+      rb_sys (~> 0.9.39)
+
+GEM
+  remote: https://rubygems.org/
+  specs:
+    rb_sys (0.9.65)
+
+PLATFORMS
+  x86_64-linux
+
+DEPENDENCIES
+  rust_blank!
+
+BUNDLED WITH
+   2.4.6
